@@ -1,4 +1,4 @@
-# <p align="center"> Hey folks !!👋  </p>
+# <p align="center"> Hey, I'm Piyush !!👋  </p>
 
 <p align="center">
 <img src="https://github.com/piyushborana/piyushborana/blob/main/Banner%20Image.png">
