@@ -1,7 +1,7 @@
 # <p align="center"> Hey folks !!👋  </p>
 
 <p align="center">
-<img src="https://github.com/piyushborana/piyushborana/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(2).png">
+<img src="https://github.com/piyushborana/piyushborana/blob/main/Banner%20Image.png">
  </p>
  
  <br>
