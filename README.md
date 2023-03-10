@@ -33,8 +33,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushborana&theme=radical)](https://git.io/streak-stats) 
 
-![Mrunank's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushborana&show_icons=true&theme=radical)
-
- <img src="https://activity-graph.herokuapp.com/graph?username=piyushborana&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
- 
- ![Visits Badge](https://badges.pufler.dev/visits/piyushborana/piyushborana)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushborana&show_icons=true&theme=radical)
