@@ -5,10 +5,8 @@
  </p>
  
  <br>
-
-<ul>
- <li>Persuing Computer Engineering at SPPU</li>
-</ul>
+ 
+ <h3>Persuing Computer Engineering at SPPU</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
