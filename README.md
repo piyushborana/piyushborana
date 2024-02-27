@@ -7,7 +7,7 @@
  <br>
 
 <ul>
- <li>Persuing Computer Engineering at SPPU</li>
+ <li></li>
 </ul>
  
 <p align="center">
